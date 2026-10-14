@@ -1,0 +1,6 @@
+<Project>
+	<PropertyGroup Condition="'$(UnoForceSingleTFM)'=='true'">
+		<TargetFramework>net10.0-android</TargetFramework>
+		<Configuration>Debug</Configuration>
+	</PropertyGroup>
+	</Project>

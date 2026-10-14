@@ -1,0 +1,7 @@
+/* MainLayout styles - intentionally minimal to allow full custom UI control */
+.yargu-root {
+    min-height: 100vh;
+    width: 100%;
+    background-color: #080c14;
+    color: #f8fafc;
+}
